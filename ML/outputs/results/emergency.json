@@ -1,0 +1,22 @@
+[
+    {
+        "index": "Road 1",
+        "vehicles": 25.125,
+        "emergency": false
+    },
+    {
+        "index": "Road 2",
+        "vehicles": 24.916666666666668,
+        "emergency": true
+    },
+    {
+        "index": "Road 3",
+        "vehicles": 25.136363636363637,
+        "emergency": false
+    },
+    {
+        "index": "Road 4",
+        "vehicles": 15.214285714285714,
+        "emergency": false
+    }
+]
