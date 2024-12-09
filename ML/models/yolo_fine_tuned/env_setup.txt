@@ -1,0 +1,7 @@
+py -3.12 -m venv myvenv
+
+myvenv\Scripts\activate
+
+pip install torch torchvision torchaudio 
+
+pip install Ultralytics

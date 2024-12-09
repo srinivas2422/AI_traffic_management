@@ -1,0 +1,26 @@
+[
+    {
+        "index": "Road 2",
+        "green_time": 55,
+        "red_time": 145,
+        "priority": 1
+    },
+    {
+        "index": "Road 3",
+        "green_time": 55,
+        "red_time": 145,
+        "priority": 2
+    },
+    {
+        "index": "Road 1",
+        "green_time": 55,
+        "red_time": 145,
+        "priority": 3
+    },
+    {
+        "index": "Road 4",
+        "green_time": 35,
+        "red_time": 165,
+        "priority": 4
+    }
+]
